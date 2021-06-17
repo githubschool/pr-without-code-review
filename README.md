@@ -1,5 +1,6 @@
 # GitHub for Developers
 
+- :rocket: Codespaces FTW!
 - Class Date: June 17, 2021
 - Facilitator: @ericalloyd
 
